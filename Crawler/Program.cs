@@ -44,10 +44,6 @@ namespace Crawler
                 Console.WriteLine("Nie ma numeruw");
             }
 
-       
-
-            //https://regex101.com/
-            //Możecie skorzystać z powyższej strony, żeby sprawdzić jakie wyrażenie regularne zadziała poprawnie.
         }
     }
 }
