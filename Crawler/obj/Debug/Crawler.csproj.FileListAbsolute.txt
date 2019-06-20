@@ -1,0 +1,32 @@
+C:\Users\Piotr Gago\Desktop\Zadanie\Crawler\Crawler\bin\Debug\Crawler.exe.config
+C:\Users\Piotr Gago\Desktop\Zadanie\Crawler\Crawler\bin\Debug\Crawler.exe
+C:\Users\Piotr Gago\Desktop\Zadanie\Crawler\Crawler\bin\Debug\Crawler.pdb
+C:\Users\Piotr Gago\Desktop\Zadanie\Crawler\Crawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Piotr Gago\Desktop\Zadanie\Crawler\Crawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Piotr Gago\Desktop\Zadanie\Crawler\Crawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Piotr Gago\Desktop\Zadanie\Crawler\Crawler\obj\Debug\Crawler.csprojResolveAssemblyReference.cache
+C:\Users\Piotr Gago\Desktop\Zadanie\Crawler\Crawler\obj\Debug\Crawler.csproj.CoreCompileInputs.cache
+C:\Users\Piotr Gago\Desktop\Zadanie\Crawler\Crawler\obj\Debug\Crawler.exe
+C:\Users\Piotr Gago\Desktop\Zadanie\Crawler\Crawler\obj\Debug\Crawler.pdb
+C:\Users\misha\Desktop\Zadanie 1 - Crawler\Crawler\bin\Debug\Crawler.exe.config
+C:\Users\misha\Desktop\Zadanie 1 - Crawler\Crawler\bin\Debug\Crawler.exe
+C:\Users\misha\Desktop\Zadanie 1 - Crawler\Crawler\bin\Debug\Crawler.pdb
+C:\Users\misha\Desktop\Zadanie 1 - Crawler\Crawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\misha\Desktop\Zadanie 1 - Crawler\Crawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\misha\Desktop\Zadanie 1 - Crawler\Crawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\misha\Desktop\Zadanie 1 - Crawler\Crawler\obj\Debug\Crawler.csprojResolveAssemblyReference.cache
+C:\Users\misha\Desktop\Zadanie 1 - Crawler\Crawler\obj\Debug\Crawler.csproj.CoreCompileInputs.cache
+C:\Users\misha\Desktop\Zadanie 1 - Crawler\Crawler\obj\Debug\Crawler.csproj.CopyComplete
+C:\Users\misha\Desktop\Zadanie 1 - Crawler\Crawler\obj\Debug\Crawler.exe
+C:\Users\misha\Desktop\Zadanie 1 - Crawler\Crawler\obj\Debug\Crawler.pdb
+C:\Users\misha\Desktop\Универ\4 семестр\APBD\cwiczenia\Zadania\Zadanie 1 - Crawler\Crawler\bin\Debug\Crawler.exe.config
+C:\Users\misha\Desktop\Универ\4 семестр\APBD\cwiczenia\Zadania\Zadanie 1 - Crawler\Crawler\bin\Debug\Crawler.exe
+C:\Users\misha\Desktop\Универ\4 семестр\APBD\cwiczenia\Zadania\Zadanie 1 - Crawler\Crawler\bin\Debug\Crawler.pdb
+C:\Users\misha\Desktop\Универ\4 семестр\APBD\cwiczenia\Zadania\Zadanie 1 - Crawler\Crawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\misha\Desktop\Универ\4 семестр\APBD\cwiczenia\Zadania\Zadanie 1 - Crawler\Crawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\misha\Desktop\Универ\4 семестр\APBD\cwiczenia\Zadania\Zadanie 1 - Crawler\Crawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\misha\Desktop\Универ\4 семестр\APBD\cwiczenia\Zadania\Zadanie 1 - Crawler\Crawler\obj\Debug\Crawler.csprojResolveAssemblyReference.cache
+C:\Users\misha\Desktop\Универ\4 семестр\APBD\cwiczenia\Zadania\Zadanie 1 - Crawler\Crawler\obj\Debug\Crawler.csproj.CoreCompileInputs.cache
+C:\Users\misha\Desktop\Универ\4 семестр\APBD\cwiczenia\Zadania\Zadanie 1 - Crawler\Crawler\obj\Debug\Crawler.csproj.CopyComplete
+C:\Users\misha\Desktop\Универ\4 семестр\APBD\cwiczenia\Zadania\Zadanie 1 - Crawler\Crawler\obj\Debug\Crawler.exe
+C:\Users\misha\Desktop\Универ\4 семестр\APBD\cwiczenia\Zadania\Zadanie 1 - Crawler\Crawler\obj\Debug\Crawler.pdb
